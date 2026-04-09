@@ -1,6 +1,6 @@
 [project]
 name = "tdp-QrCodeCOMP"
-version = "0.2.1"
+version = "1.0.0"
 description = "A Component to generate QR Codes."
 readme = "README.md"
 keywords = [ "TouchDesigner", "TOP", "QrCode",]
